@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Hi, thanks for stopping by! ;)</a>
 
 profile:
   align: right
@@ -14,14 +14,14 @@ profile:
     <p>Advised by Joseph O'Rourke</p>
 
 news: false  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, thanks for stopping by! ;)
+<a href='#'>Hi, thanks for stopping by! ;)</a>
 
-I'm a **software engineer** for 3 years. I currently work in <ins>Equity Trading **@**_Golman Sachs (China)_</ins>. And before that, I have worked for <ins>Global Payments **@**_Bytedance_</ins> and <ins>Payments **@**_Google_</ins>.
+I'm a **software engineer** in <ins>Equity Trading **@**_Golman Sachs (China)_</ins>. Before that, I have worked for <ins>Global Payments **@**_Bytedance_</ins> and <ins>Payments **@**_Google_</ins>.
 
 Academicly, I am passionate about **AI in Finance** as well as **Complexity Analysis**. For the former, my research focuses on stock perdiction and trading decision with Deep Learning Models; in particular, I am interested in models with practical consideration in business applications such as interpretability, stability and efficiency. For the later, I am interested in the Complexity Analysis of puzzles such as Cop and Robber Game.
 
