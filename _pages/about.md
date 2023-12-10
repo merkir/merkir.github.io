@@ -28,4 +28,4 @@ Academically, my <a href='#'>research interests</a> include:
 - **AI Interpretability & Fairness**: model interpretavility for application in finance, data bias in gender, ..
 - **Complexity Analysis**: Cops and Robber game, Another Solution Problem, ...
 
-I am also an active advocator for <a href='#'>inclusiveness and diversity</a>. I am a part of the LGBTQ+ Network and the Women's Network at Goldman Sachs. I was also the Event Chair of _Smithies in CS_ to support women at Smith in Computer Science learning.
+I am also an active advocator for <a href='#'>inclusiveness and diversity</a>. I am a part of the _LGBTQ+ Network_ & _Women's Network_ at Goldman Sachs. I was also the Event Chair of _Smithies in CS_ to support women at Smith in Computer Science learning.
