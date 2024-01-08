@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /cv/
 title: Cv
@@ -8,4 +8,4 @@ cv_pdf: shiqi_pan_cv.pdf
 redirect_to: /assets/pdf/shiqi_pan_cv.pdf
 ---
 
-Please see my CV in redirected pdf.
+Please see my CV in redirected pdf. -->
